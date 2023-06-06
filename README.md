@@ -7,16 +7,16 @@
 <p align="left">
 <br>
 <br>
-- 🔭 I’m currently working on <b><i>?</i></b>
+- 🔭 I’m currently working on <b><i>Critical Python Project</i></b>
 <br>
 <br>
-- 🌱 I’m currently learning <b><i>C#</i></b>
+- 🌱 I’m currently learning <b><i>React</i></b>
 <br>
 <br>
 - 📫 How to reach me <b><i>snskrshimpi@gmail.com</i></b>
 <br>
 <br>
-- ⚡ Fun fact <b><i>I am Student Of Class XI</i></b>
+- ⚡ Fun fact <b><i>I'm secretly Spiderman...but don't expose it to anyone😜</i></b>
 
 </p>
 <br>
