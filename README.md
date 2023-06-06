@@ -3,9 +3,10 @@
 <hr>
 <h3 align="center">A passionate Student Web, App, Game Developer from India!</h3>
 <hr>
-
-<p align="left">
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=0&color=BD24FF&width=435&lines=I'm Web+Designer!+;I'm App+Developer!+;I'm Game+Developer!" alt="Typing SVG" /></a>
+<p align="left">
+<hr>
 <br>
 - 🔭 I’m currently working on <b><i>Critical Python Project</i></b>
 <br>
@@ -36,7 +37,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
 <br>
-<br>
 <hr>
 <br>  
           
@@ -44,7 +44,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="70" height="70"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     
     
-<br>
 <br>
 <hr>
 <br>   
@@ -55,7 +54,6 @@
     
     
     
-<br>
 <br>
 <hr>
 <br>  
