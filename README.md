@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Student Web, App, Game Developer from India!</h3>
 <hr>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=0&color=BD24FF&width=435&lines=I'm Web+Designer!+;I'm App+Developer!+;I'm Game+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=0&color=BD24FF&width=435&lines=I am a Web+Designer!+;I am an App+Developer!+;I am a Game+Developer!+;I am a Web Developer!" alt="Typing SVG" /></a>
 <p align="left">
 <hr>
 <br>
