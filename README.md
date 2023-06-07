@@ -1,4 +1,4 @@
-
+![](https://github.com/Sanskar-Shimpi/Sanskar-Shimpi/blob/main/giphy.gif)
 <h1 align="center">I'm Sanskar Shimpi</h1>
 <hr>
 <h3 align="center">A passionate Student Web, App, Game Developer from India!</h3>
