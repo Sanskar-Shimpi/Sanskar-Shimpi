@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<img src='https://github.com/Sanskar-Shimpi/Sanskar-Shimpi/blob/main/370-3704903_programmer-illustration-hd-png-download.png'>
+<img src='https://github.com/Sanskar-Shimpi/Sanskar-Shimpi/blob/main/6m.jpg'>
 </p>
 <br>
 <br>
