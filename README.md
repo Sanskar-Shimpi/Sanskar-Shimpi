@@ -65,6 +65,6 @@
 
 <p>
     
-<img align="left" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-shimpi&show_icons=true&locale=en&layout=compact" alt="sanskar-shimpi" />
+<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-shimpi&show_icons=true&locale=en&layout=compact" alt="sanskar-shimpi" />
 </p>
 
